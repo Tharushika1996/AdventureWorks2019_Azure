@@ -1,0 +1,9 @@
+{
+	"name": "AdventureWorksDWIntegration",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "132cb1f0-57c7-4c09-95fe-30d8a41f5557",
+		"tenantId": "f3df8893-ec2d-4b77-a145-b0a0b8d92ad6"
+	}
+}
